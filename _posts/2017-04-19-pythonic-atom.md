@@ -3,7 +3,7 @@ layout: post
 title: Pythonic Atom
 ---
 
-Assuming you know and use [Atom](http://atom.io) and if you don't you should,  i will briefly describe a package i published not long ago.
+Assuming you know and use [Atom](http://atom.io) (and if you don't, you should),  i will briefly describe a package i published not long ago.
  As you may imagine by it's name i tried to gather some pythonic features from other packages into this one for easier set up.
 
 [Pythonic Atom](https://atom.io/packages/pythonic-atom) installs the folowing packages:
