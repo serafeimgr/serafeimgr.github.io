@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pythonic Atom
+published: true
 ---
 
 Assuming you know and use [Atom](http://atom.io) (and if you don't, you should),  i will briefly describe a package i published not long ago.

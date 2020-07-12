@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World!
+published: true
 ---
 
 Hello & welcome to my blog.

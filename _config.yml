@@ -5,25 +5,26 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Serafeim Tgrds
+title:            Serafeim
 tagline:          ''
-description:      'Software Developer | Continuous Integration Engineer'
-baseurl:          
+description:      'DevOps Engineer'
+baseurl:          ''
 
 author:
-  name:           'Serafeim Tgrds'
+  name:           'Serafeim'
   url:            'serafeimgr.github.io'
   email:          'serafeimgr@gmail.com'
   github:         'https://github.com/serafeimgr'
-  twitter:        ''
-  googleplus:     ''
-  linkedin:       ''
+  reddit:         ''
 
-
-paginate:         3
+paginate:         2
 
 # Custom vars
 github:
   repo:           https://github.com/serafeimgr
 
-gems: [jekyll-gist, jekyll-paginate]
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-172414184-1
+
+plugins: [jekyll-gist, jekyll-paginate, jekyll-analytics]
