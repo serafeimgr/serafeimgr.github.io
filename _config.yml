@@ -27,4 +27,5 @@ jekyll_analytics:
   GoogleAnalytics:
     id: UA-172414184-1
 
+whitelist: [jekyll-analytics]
 plugins: [jekyll-gist, jekyll-paginate, jekyll-analytics]
