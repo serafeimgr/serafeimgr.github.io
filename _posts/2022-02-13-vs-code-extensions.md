@@ -20,7 +20,7 @@ These extensions below help me to be more productive on my role as a DevOps Engi
 
     Enable them by adding the following in `settings.json`
 
-    `"editor.lineNumbers": "relative",
+    `"vim.smartRelativeLine": true,
     "vim.useSystemClipboard": true`
 
     This allows the extension to use the system clipboard and also it renders the relative line numbers so i can easily browse a file inside vscode
