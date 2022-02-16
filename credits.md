@@ -7,4 +7,4 @@ Built with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and hosted o
 
 Design based on [@mdo](https://twitter.com/mdo)'s [Hyde theme](https://github.com/poole/hyde) for Jekyll, includes some custom css taken from [vakila](https://github.com/vakila)
 
-&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+&copy; 2017 - {{ site.time | date: '%Y' }} {{ site.author.name }}
