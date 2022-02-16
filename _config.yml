@@ -9,6 +9,7 @@ title:            Serafeim
 tagline:          ''
 description:      'DevOps Engineer'
 baseurl:          ''
+url:              https://serafeim.io
 
 author:
   name:           'Serafeim'
@@ -17,7 +18,8 @@ author:
   github:         'https://github.com/serafeimgr'
   reddit:         ''
 
-paginate:         2
+paginate:         1
+paginate_path:    "page:num"
 
 # Custom vars
 github:
