@@ -37,7 +37,7 @@ nbproject
 validation-status.json
 validation-report.json
 
-# Folders to ignore
+# Directories to ignore
 node_modules
 Gemfile.lock
 .jekyll-cache
