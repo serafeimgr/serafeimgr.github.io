@@ -2,6 +2,7 @@
 layout: post
 title: Favorite VS Code extensions
 published: true
+headline: VS Code workflow improvements.
 ---
 
 On this post i am going to list my favorite extensions for [Visual Studio Code](https://code.visualstudio.com/)
@@ -12,7 +13,6 @@ These extensions below help me to be more productive on my role as a DevOps Engi
  - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
     The most helpful feature of GitLens is that it visualizes code authorship via Git blame annotations.
-
  - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
     Vim emulation for Visual Studio Code.
